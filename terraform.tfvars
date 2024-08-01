@@ -1,1 +1,1 @@
-api_key = "YOUR GENEREATED API KEY"
+api_key = "W_5S85Yzkq4kIYAymnyX4531ifkWcPaiaf2y5kzj_8yG21Z2p0ncTW3niqdFYklY"
